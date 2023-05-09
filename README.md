@@ -1,1 +1,1 @@
-# Project-Diabetis_PCA
+# Project-Diabetes_PCA
